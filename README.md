@@ -1,2 +1,2 @@
 # Entrega1-Quiroga
-Una primera entrega de una Web del club Instituto Sporting
+Una primera entrega de la web del club Instituto Sporting
